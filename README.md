@@ -26,7 +26,7 @@ Aprendendo e aplicando SQL, Python e Power BI para gerar insights reais e projet
 |-------|------------|--------|
 | Google Data Analytics | Coursera | Em andamento |
 | Fundamentos de Linguagem Python para Análise de Dados e Data Science | Data Science Academy | Em andamento |
-| Banco de Dados e SQL | Udemy | Em andamento |
+| Banco de Dados e SQL | Udemy | Concluido|
 
 ---
 
