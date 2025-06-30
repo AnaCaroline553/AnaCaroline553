@@ -24,7 +24,7 @@ Aprendendo e aplicando SQL, Python para gerar insights reais e projetos com impa
 
 | Curso | Plataforma | Status |
 |-------|------------|--------|
-| Google Data Analytics | Coursera | Em andamento |
+| Análise de dados do Google | Coursera | Em andamento |
 | Fundamentos de Linguagem Python para Análise de Dados e Data Science | Data Science Academy | Em andamento |
 | Banco de Dados e SQL | Udemy | Concluido|
 
