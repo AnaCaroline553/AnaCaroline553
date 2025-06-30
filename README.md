@@ -1,7 +1,7 @@
 # Ana Caroline de Morais Pimentel
 
 **Transição de carreira para a área de dados**  
-Aprendendo e aplicando SQL, Python e Power BI para gerar insights reais e projetos com impacto.
+Aprendendo e aplicando SQL, Python para gerar insights reais e projetos com impacto.
 
 ---
 
