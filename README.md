@@ -1,22 +1,24 @@
-# Ana Caroline de Morais Pimentel
+Ana Caroline de Morais Pimentel
+Transição de carreira para a área de dados
+Aprendendo e aplicando SQL, Python e Power BI para gerar insights reais e projetos com impacto.
 
-Profissional em transição de carreira para a área de dados. Buscando aplicar conhecimentos em SQL, Python e Power BI em projetos com impacto e propósito. Atualmente desenvolvendo análises com dados reais e criando um portfólio técnico voltado para o mercado de tecnologia.
+💼 Projetos em destaque
+Análise de Dados da COVID-19 no Brasil — estudo completo com Python, pandas e visualizações que contam a história por trás dos números
 
-## Em andamento
+Projeto SQL Loja de Doces — banco de dados relacional criado do zero com consultas práticas para análise comercial
 
-- Projeto de análise de dados da COVID-19 no Brasil
-- Projetos de modelagem e consulta de dados com SQL
-- Desenvolvimento de dashboards e visualizações interativas
-- Aprimorando conhecimentos em Engenharia de Dados
+🎓 Formação e Bootcamps
+Bootcamp EY Empodera — tecnologia, soft skills e carreira
 
-## Formação e Bootcamps
+Bootcamp Data Girls – Engenharia de Dados — ETL, pipelines e fundamentos da engenharia de dados
 
-- Bootcamp **EY Empodera** – foco em tecnologia, soft skills e carreira
-- Bootcamp **Data Girls – Engenharia de Dados** – formação prática com foco em ETL, pipelines e fundamentos de engenharia de dados
-- Bootcamp **Fundação Bradesco – Power BI** – análise e visualização de dados
-- Curso **Banco de Dados e SQL – Udemy**
-- Estudando Python para análise de dados
+Bootcamp Fundação Bradesco – Power BI — análise e visualização de dados
 
-## Objetivo
+📚 Cursos em andamento
+Curso	Plataforma	Status
+Google Data Analytics	Coursera	Em andamento
+Fundamentos de Linguagem Python para Análise de Dados e Data Science	Data Science Academy	Em andamento
+Banco de Dados e SQL	Udemy	Em andamento
 
-Atuar com análise de dados em ambientes que valorizem aprendizado constante, clareza na comunicação e impacto real através da tecnologia.
+🎯 Objetivo
+Atuar com análise de dados em ambientes que valorizem aprendizado contínuo, clareza na comunicação e impacto real por meio da tecnologia.
