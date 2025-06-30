@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ana Caroline de Morais Pimentel
 
-<!--
-**AnaCaroline553/AnaCaroline553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição de carreira para a área de dados. Buscando aplicar conhecimentos em SQL, Python e Power BI em projetos com impacto e propósito. Atualmente desenvolvendo análises com dados reais e criando um portfólio técnico voltado para o mercado de tecnologia.
 
-Here are some ideas to get you started:
+## Em andamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Projeto de análise de dados da COVID-19 no Brasil
+- Projetos de modelagem e consulta de dados com SQL
+- Cursos: Banco de Dados e SQL (Udemy), Power BI (Fundação Bradesco)
+
+## Objetivo
+
+Atuar com análise de dados em ambientes que valorizem aprendizado constante, clareza na comunicação e impacto real através da tecnologia.
